@@ -1,0 +1,161 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Live Currency Conversion Assistant Pro v1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-23 12:09+0100\n"
+"Last-Translator: jelena kovacevic <jecajeca260@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: de_DE\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ haetcurrency
+#: includes/class-haetcurrency.php:219
+msgid "Settings Updated."
+msgstr "Configuraciones Actualizadas."
+
+# @ haetcurrency
+#: includes/class-haetcurrency.php:225
+msgid "Settings"
+msgstr "Configuraciones"
+
+# @ haetcurrency
+#: includes/class-haetcurrency.php:228
+msgid "More"
+msgstr "Más"
+
+# @ haetcurrency
+#: includes/class-haetcurrency.php:254
+msgid "loading currency conversion"
+msgstr "cargando conversión de moneda"
+
+# @ haetcurrency
+#: includes/class-haetcurrency.php:306
+msgid "set conversion currency"
+msgstr "definir la moneda de conversión"
+
+# @ haetcurrency
+#: views/admin/settings.php:62
+msgid "Bubble Theme"
+msgstr "Tema Burbuja"
+
+# @ haetcurrency
+#: views/admin/settings.php:113
+msgid "Blacklist currencies"
+msgstr "monedas en Lista Negra"
+
+# @ haetcurrency
+#: views/admin/settings.php:56 views/admin/settings.php:107
+msgid "Update Settings"
+msgstr "Actualizar Configuraciones"
+
+# @ haetcurrency
+#: currency-assistant-pro.php:57
+msgid "Currency Converter"
+msgstr "Conversor  de Monedas"
+
+# @ haetcurrency
+#: currency-assistant-pro.php:57
+msgid "Configure Currency Conversion Assistant Pro"
+msgstr "Asistente Pro para Configurar y Convertir  Monedas"
+
+# @ haetcurrency
+#: includes/class-haetcurrency.php:194
+msgid "Currency list has been updated."
+msgstr "Lista de monedas actualizada."
+
+# @ haetcurrency
+#: includes/class-haetcurrency.php:200
+msgid "Setting have been imported from your shop."
+msgstr "Ajuste importado de su tienda."
+
+# @ haetcurrency
+#: includes/class-haetcurrency.php:226
+msgid "Theme"
+msgstr "Tema"
+
+# @ haetcurrency
+#: includes/class-haetcurrency.php:227
+msgid "Currencies"
+msgstr "Monedas"
+
+# @ haetcurrency
+#: views/admin/settings.php:4
+msgid "Live Currency Conversion Assistant Pro"
+msgstr "Asistente Pro En Línea Para Convertir Monedas"
+
+# @ haetcurrency
+#: views/admin/settings.php:24
+msgid "Import settings"
+msgstr "Importar configuración"
+
+# @ haetcurrency
+#: views/admin/settings.php:25
+msgid ""
+"Live Currency Conversion Assistant Pro comes with settings for some popular "
+"Wordpress Shop Plugins."
+msgstr ""
+"El Asistente Pro En Línea para Convertir Monedas viene con ajustes para "
+"algunos Plugins de Tienda de Wordpress populares."
+
+# @ haetcurrency
+#: views/admin/settings.php:26
+msgid "Following shop plugins were detected on your wordpress installation:"
+msgstr ""
+"En su instalación de wordpress se han detectado los siguientes plugins:"
+
+# @ haetcurrency
+#: views/admin/settings.php:30
+msgid "Import settings from"
+msgstr "Importar Configuraciones desde "
+
+# @ haetcurrency
+#: views/admin/settings.php:38
+msgid "thousand separator"
+msgstr "Separador de miles"
+
+# @ haetcurrency
+#: views/admin/settings.php:42
+msgid "Decimal separator"
+msgstr "Separador Decimal"
+
+# @ haetcurrency
+#: views/admin/settings.php:46
+msgid "Shop currency (ISO-Code)"
+msgstr " Tienda de Moneda (ISO-Code)"
+
+# @ haetcurrency
+#: views/admin/settings.php:50
+msgid "jQuery selector"
+msgstr "Selector de jQuery"
+
+# @ haetcurrency
+#: views/admin/settings.php:114
+msgid ""
+"This plugin makes use of Googles Conversion API. This API supports many "
+"currencies, but not all. You can check and regenerate the blacklist from "
+"time to time."
+msgstr ""
+"Este plugins utiliza la API de conversión de google. Esta API es compatible "
+"con múltiples monedas. Usted puede comprobar y volver a generar la lista "
+"negra de monedas."
+
+# @ haetcurrency
+#: views/admin/settings.php:115
+msgid "Currently active currencies in your system are: "
+msgstr "Las monedas activas en su sistema son las siguientes:"
+
+# @ haetcurrency
+#: views/admin/settings.php:119
+msgid "check list with Google conversion API"
+msgstr "Comprobar la lista con el API de conversión de google "
